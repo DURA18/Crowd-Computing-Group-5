@@ -1,1 +1,1 @@
-Group project of crowd computing cs 4145
+Group project of Crowd Computing CS 4145
